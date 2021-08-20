@@ -1,0 +1,20 @@
+body {
+  color: tomato;
+  background: #fafad2;
+  
+  font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
+  font-size: 12pt;
+  font-weight: bold;
+}
+
+hr {
+  height: 2px;
+  border: none;
+  background-color: tomato;
+}
+  
+ul {
+  list-style-type: square;
+  
+  
+}
